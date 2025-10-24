@@ -1,5 +1,3 @@
 # Test_JBR
-Simple Readme
 
-
-y7gutvtycytctyc6f
+This repository is dedicated to thepython learning examples.
