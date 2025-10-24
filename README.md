@@ -1,3 +1,3 @@
 # Test_JBR
 
-This repository is dedicated to thepython learning examples.
+This repository is dedicated to the python learning examples.
